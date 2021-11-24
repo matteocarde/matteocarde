@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matteocarde
 - 👀 I’m interested in Artificial Intelligence with a particular focus on Automatic Planning and Scheduling
-- 🌱 I’m currently working at SurgiQ in Genova, Italy as and Artificial Intelligence Researcher
+- 🌱 I’m currently a PhD student in the National PhD in Artificial Intelligence at Turin Polytechnic and University of Genova.
 - 🧑🏻‍💻 My publications list and more info about me is available website is matteocardellini.it
 - 📫 You can reach me at me@matteocardellini.it
